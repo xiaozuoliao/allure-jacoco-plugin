@@ -1,0 +1,7 @@
+id: jacoco-plugin
+name: jacoco-plugin
+description: jacoco report
+extensions:
+  - com.nio.allure.plugins.JacocoPlugin
+jsFiles:
+  - index.js
